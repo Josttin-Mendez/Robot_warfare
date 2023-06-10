@@ -6,7 +6,7 @@
 - [Technologies used](#Technologies-used)  
 
 ## Project description  
-Personal landing page style portfolio that teaches about me, along with my technical skills, soft skills, education, projects completed and an added contact form.
+Juego desarrollado en Python con el fin de generar una batalla en la cual dos robots luchen usando energía y reduciendo las defensas del contrincante. Estas defensas, cuando lleguen a cero, se desprenderán del robot. De esta manera, con luchas y uso de las piezas, se gastará energía hasta que alguno llegue a cero y el último que quede en pie ganará la batalla.
 
 ## Technologies used
 ![visual-basico](https://github.com/Josttin-Mendez/Portafolio2.0/assets/112291940/13add917-1292-407c-a4df-3309fd37021b)      ![Python](https://github.com/Josttin-Mendez/Robot_warfare/assets/112291940/c761f152-013d-4f6a-9da5-dee3f9340be7)
@@ -27,13 +27,13 @@ Download the Zip and extract it's contents.
 
 ### Usage:
 
--	After installation, just run the [`Robot_warfare.py`](https://github.com/Josttin-Mendez/Robot_warfare/blob/main/Robot_warfare.py) and	[`Robot_warfare_simple_version.py`](https://github.com/Josttin-Mendez/Robot_warfare/blob/main/Robot_warfare_simple_version.py) using 
+-	After installation, just run the [`Robot_warfare.py`](https://github.com/Josttin-Mendez/Robot_warfare/blob/main/Robot_warfare.py)  or [`Robot_warfare_simple_version.py`](https://github.com/Josttin-Mendez/Robot_warfare/blob/main/Robot_warfare_simple_version.py) using 
 
 ```
-Robot_warfare.py
+python Robot_warfare.py
 ```
 ```
-Robot_warfare_simple_version.py
+python Robot_warfare_simple_version.py
 ```
 
 
