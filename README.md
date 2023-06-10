@@ -2,7 +2,7 @@
 
 
 ### Index 
-- [Project description](#Project-description)  
+- [Project description](#Project-description)   
 - [Technologies used](#Technologies-used)  
 
 ## Project description  
