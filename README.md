@@ -2,8 +2,8 @@
 
 
 ### Index 
-- [Project description](#Project-description)   
-- [Technologies used](#Technologies-used)  
+- [Project description](#Project-description)
+- [Technologies used](#Technologies-used) 
 
 ## Project description  
 Juego desarrollado en Python con el fin de generar una batalla en la cual dos robots luchen usando energía y reduciendo las defensas del contrincante. Estas defensas, cuando lleguen a cero, se desprenderán del robot. De esta manera, con luchas y uso de las piezas, se gastará energía hasta que alguno llegue a cero y el último que quede en pie ganará la batalla.
